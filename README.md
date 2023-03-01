@@ -1,2 +1,0 @@
-# Python-Chat
-Python chat
